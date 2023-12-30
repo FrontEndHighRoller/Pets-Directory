@@ -4,14 +4,14 @@ const pets = [
     type: "Dog",
     breed: "Australian Shepherd",
     age: 8,
-    photo: "../img/aussie.jpg",
+    photo: "../../img/aussie.jpg",
   },
   {
     name: "Jaz",
     type: "Dog",
     breed: "Dachshund",
     age: 7,
-    photo: "../img/dachshund.jpg",
+    photo: "img/dachshund.jpg",
   },
   {
     name: "Frank",
